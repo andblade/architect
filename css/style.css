@@ -1,0 +1,75 @@
+body{
+  
+}
+
+#home{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-08.jpg);
+	height: 80vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#group-01 .row,
+#group-02 .row{
+	height: 100vh;
+}
+#group-01 .box-01,
+#group-01 .box-02,
+#group-01 .box-03,
+#group-01 .box-04,
+#group-02 .box-01,
+#group-02 .box-02,
+#group-02 .box-03,
+#group-02 .box-04{
+	background-size: cover !important;
+	background-position: 10% 50% !important;
+}
+#group-01 .box-01{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-01.jpg);
+}
+#group-01 .box-02{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-02.jpg);
+}
+#group-01 .box-03{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-03.jpg);
+}
+#group-01 .box-04{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-04.jpg);
+}
+#group-02 .box-01{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-05.jpg);
+}
+#group-02 .box-02{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-06.jpg);
+}
+#group-02 .box-03{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-07.jpg);
+}
+#group-02 .box-04{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagens/image-09.jpg);
+}
+
+
+
+
+
+/* -------------------------- media queires -------------------------- */
+/* CLASSE ESPECIAL PARA A FONTE DO PROGRESS CIRCLE "HTML E CSS" */
+@media screen and (min-width: 1441px) and (max-width: 2560px){
+  	
+}
+
+/* monitores com largura de até 991px */
+@media screen and (max-width: 991.98px) {
+  
+}
+
+/* tablets com largura de até até 767px */
+@media screen and (max-width: 767.98px) {
+  
+}
+
+/* celulares com largura de até 575px */
+@media screen and (max-width: 575.98px) {
+	
+}
